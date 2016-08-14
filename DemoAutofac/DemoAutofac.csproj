@@ -235,7 +235,7 @@
     <Compile Include="Services\Archer\IArcher.cs" />
     <Compile Include="Services\Cavalry\Cavalry.cs" />
     <Compile Include="Services\Cavalry\ICavalry.cs" />
-    <Compile Include="Services\Cavalry\PowerCavaly.cs" />
+    <Compile Include="Services\Cavalry\PowerCavalry.cs" />
     <Compile Include="Services\Infantry\IInfantry.cs" />
     <Compile Include="Services\Infantry\Infantry.cs" />
     <Compile Include="Startup.cs" />
